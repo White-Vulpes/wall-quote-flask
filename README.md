@@ -1,5 +1,3 @@
-Here's a suggested README file for your "wall-quote-flask" repository:
-
 ---
 
 # Wall Quote Flask
